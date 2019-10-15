@@ -9,7 +9,7 @@
     android:orientation="vertical">
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="356dp">
+        android:layout_height="350dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -36,17 +36,28 @@
                 android:textColor="#fff"
                 android:textSize="25sp"
                 android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:text="1718019"
+                android:textColor="#fff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="100dp"
             android:layout_height="80dp"
             android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="20dp"
             android:layout_marginTop="290dp"
             android:background="#fff"
             android:gravity="center"
-            android:layout_marginLeft="50dp"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -66,8 +77,34 @@
         <LinearLayout
             android:layout_width="100dp"
             android:layout_height="80dp"
-            android:layout_centerHorizontal="true"
-            android:layout_gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="290dp"
+            android:background="#fff"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Following"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="4dp"
+                android:text="1256"
+                android:textColor="@color/startblue"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="135dp"
             android:layout_marginTop="290dp"
             android:background="#fff"
             android:gravity="center"
@@ -89,32 +126,6 @@
                 android:textStyle="bold" />
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="80dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="290dp"
-            android:background="#fff"
-            android:gravity="center"
-            android:layout_marginLeft="260dp"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Following"
-                android:textSize="20sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:paddingTop="4dp"
-                android:text="1256"
-                android:textColor="@color/startblue"
-                android:textSize="18sp"
-                android:textStyle="bold" />
-        </LinearLayout>
-
     </RelativeLayout>
 
     <LinearLayout
@@ -122,9 +133,9 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="center"
-        android:layout_marginTop="30dp">
+        android:layout_marginTop="5dp">
         <LinearLayout
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal"
             android:paddingLeft="15dp"
             android:layout_width="match_parent"
@@ -141,7 +152,7 @@
                 android:text="Agungfirman.af21@gmail.com"/>
             </LinearLayout>
         <LinearLayout
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal"
             android:paddingLeft="15dp"
             android:layout_width="match_parent"
@@ -158,7 +169,7 @@
                 android:text="+628 5655 5721 21"/>
         </LinearLayout>
         <LinearLayout
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal"
             android:paddingLeft="15dp"
             android:layout_width="match_parent"
@@ -175,7 +186,7 @@
                 android:text="Add to group"/>
         </LinearLayout>
         <LinearLayout
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal"
             android:paddingLeft="15dp"
             android:layout_width="match_parent"
@@ -195,7 +206,7 @@
 
     <Button
         android:background="@drawable/buttonstyle"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="5dp"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
