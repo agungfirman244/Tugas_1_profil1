@@ -61,7 +61,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Photo"
+                android:text="@string/Photo"
                 android:textSize="20sp" />
 
             <TextView
@@ -87,7 +87,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Following"
+                android:text="@string/Following"
                 android:textSize="20sp" />
 
             <TextView
@@ -113,7 +113,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Followers"
+                android:text="@string/Followers"
                 android:textSize="20sp" />
 
             <TextView
@@ -183,7 +183,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="Add to group"/>
+                android:text="@string/Add_to_group"/>
         </LinearLayout>
         <LinearLayout
             android:layout_marginTop="10dp"
@@ -200,7 +200,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="show all comment"/>
+                android:text="@string/Show_all_coment"/>
         </LinearLayout>
     </LinearLayout>
 
@@ -210,6 +210,6 @@
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Follow Me"/>
+        android:text="@string/FOLLOW_ME"/>
 
 </LinearLayout>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Tugas_1_profil</string>
+    <string name="Photo">Photo</string>
+    <string name="Followers">Follower</string>
+    <string name="Following">Following</string>
+    <string name="Add_to_group">Add to group</string>
+    <string name="Show_all_coment">Show all coment</string>
+    <string name="FOLLOW_ME">FOLLOW ME</string>
+
 </resources>

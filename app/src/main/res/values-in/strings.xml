@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas_1_profil</string>
+    <string name="Photo">Foto</string>
+    <string name="Followers">Pengikut</string>
+    <string name="Following">Berikut</string>
+    <string name="Add_to_group">Tambahkan grup</string>
+    <string name="Show_all_coment">Tampilkan Semua komen</string>
+    <string name="FOLLOW_ME">Ikut aku</string>
+</resources>
