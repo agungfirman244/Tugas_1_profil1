@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Tugas_1_profil</string>
     <string name="action_setting">Setting</string>
@@ -11,5 +12,4 @@
     <string name="Add_to_group">Add to group</string>
     <string name="Show_all_coment">Show all coment</string>
     <string name="FOLLOW_ME">FOLLOW ME</string>
-
 </resources>
